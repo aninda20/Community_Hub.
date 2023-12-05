@@ -37,5 +37,7 @@ Open browser and go to
 ```http
   localhost:8000
 ```
+
+Screenshot
 <img width="1512" alt="Screen Shot - Community Hub" src="https://github.com/aninda20/Community_Hub./assets/53020383/3e65c5a2-dd6c-44d6-9c06-0a1dbac2a82a">
 
