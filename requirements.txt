@@ -1,0 +1,5 @@
+flask-wtf
+flask-bcrypt
+peewee
+flask-login
+flask
