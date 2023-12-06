@@ -21,7 +21,7 @@ Follow these steps to get your development environment running:
 
 1. **Clone the repository** (if you haven't already):
    ```bash
-   git clone https://github.com/aninda20/Community_Hub.git
+   git clone https://github.com/aninda20/Community_Hub..git
    cd Community_Hub
 
 
