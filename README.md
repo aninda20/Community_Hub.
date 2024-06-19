@@ -1,6 +1,6 @@
 # Community Hub - A Local Social Networking Platform (application of design patterns)
 
-### About This Project"
+### About This Project:
 This project is a social networking website developed using **Flask**, a micro web framework written in Python. The highlights of this project include various design patterns implemented to ensure a robust and maintainable application architecture.
 
 ### Key Design Patterns:
