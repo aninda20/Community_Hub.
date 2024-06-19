@@ -1,11 +1,11 @@
 # Community Hub - A Local Social Networking Platform (application of design patterns)
 
 
-## About This Project
+### About This Project
 
 This project is a social networking website developed using **Flask**, a micro web framework written in Python. The highlights of this project include various design patterns implemented to ensure a robust and maintainable application architecture.
 
-### Key Design Patterns
+### Key Design Patterns:
 
 1. **Singleton Pattern**:
     - Implemented through `SingletonMeta` to ensure a single instance of the `DatabaseConnection` class, managing a unique database connection efficiently.
@@ -32,7 +32,7 @@ This project is a social networking website developed using **Flask**, a micro w
 8. **Indexing and Constraints**:
     - Uses unique constraints and indexes in the `Relationship` model to enforce data integrity and optimize query performance.
 
-## Prerequisites
+### Prerequisites
 
 Before you begin, ensure you have the following requirements installed:
 - Python version 2.7 or above
@@ -44,7 +44,7 @@ Before you begin, ensure you have the following requirements installed:
 
 This is compatible with Mac OSX, Windows, and Linux operating systems.
 
-## Installation
+### Installation
 
 Follow these steps to get your development environment running:
 
@@ -67,6 +67,6 @@ Open browser and go to
   localhost:8000
 ```
 
-Screenshot
+###Screenshot
 <img width="1512" alt="Screen Shot - Community Hub" src="https://github.com/aninda20/Community_Hub./assets/53020383/3e65c5a2-dd6c-44d6-9c06-0a1dbac2a82a">
 
