@@ -3,3 +3,4 @@ flask-bcrypt
 peewee
 flask-login
 flask
+email_validator 
